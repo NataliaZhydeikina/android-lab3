@@ -1,0 +1,1 @@
+![screenshot](https://raw.githubusercontent.com/NataliaZhydeikina/android-lab3/main/app/src/main/res/mipmap-anydpi-v26/photo_2022-11-25_18-37-22.jpg)
